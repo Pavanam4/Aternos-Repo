@@ -16,8 +16,8 @@ from datetime import datetime
 
 # Configuration - EDIT THESE VALUES
 CONFIG = {
-    "server_ip": "YOUR_SERVER.aternos.me",  # Replace with your Aternos server IP
-    "server_port": 25565,
+    "server_ip": "kalikanundo123.aternos.me",  # Replace with your Aternos server IP
+    "server_port": 57531,
     "check_interval": 300,  # 5 minutes
     "max_players": 3,
     "actions": ["move", "chat", "jump", "mine", "build"],
